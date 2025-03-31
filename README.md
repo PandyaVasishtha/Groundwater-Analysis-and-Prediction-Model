@@ -1,1 +1,1 @@
-# Groundwater-Analysis-and-Prediction-Model
+This is an AI/ML model for groundwater resource management for Rajasthan state. Using a Random Forest Regressor, the model predicts future groundwater availability based on recharge and extraction patterns. The analysis identifies overexploited regions and provides actionable insights for policymakers. This framework can help prioritize interventions in critical districts to ensure sustainable groundwater use.
